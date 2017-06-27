@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Drupal files" pattern="file:*.info file:*.module" />
+</component>

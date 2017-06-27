@@ -1,0 +1,29 @@
+core: 7.x
+api: 2
+projects:
+  drupal:
+    version: '7.56'
+  admin_menu:
+    subdir: contrib
+  ctools:
+    subdir: contrib
+  coffee:
+    subdir: contrib
+  devel:
+    subdir: contrib
+  entity:
+    subdir: contrib
+  entityreference:
+    subdir: contrib
+  features:
+    subdir: contrib
+  imce:
+    subdir: contrib
+  module_filter:
+    subdir: contrib
+  pathauto:
+    subdir: contrib
+  token:
+    subdir: contrib
+  views:
+    subdir: contrib
