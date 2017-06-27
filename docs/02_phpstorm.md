@@ -31,7 +31,7 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 
 - [⌘⇧N] Scratch Files.
 - Emmet.
-- [⌘D] Duplicate line.s
+- [⌘D] Duplicate lines.
 
 
 ## Drupal Settings
