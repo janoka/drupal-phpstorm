@@ -21,14 +21,28 @@ function phpstorm_menu() {
 }
 
 /**
- *
+ * PhpStorm form.
  */
 function phpstorm_example_form($form, &$form_state) {
-  $form = [
-    'content' => [
-      '#markup' => '<',
-    ],
-
+  $form['test'] = [
+    '#type' => 'fieldset',
+    '#title' => t('Title'),
+    '#weight' => 0,
+    '#collapsible' => FALSE,
+    '#collapsed' => FALSE,
   ];
+  $form['content'] = [
+    '#markup' => '<p>Test</p>',
+    '#weight' => 1,
+  ];
+
+  $form[''] = [
+    '#type' => 'textfield',
+    '#title' => t('Title'),
+    '#default_value' => 'akjsdh',
+    '#size' => 64,
+    '#maxlength' => 128,
+  ];
+
   return $form;
 }

@@ -4,6 +4,13 @@
 
 Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 
+## Before Start
+
+````
+# In a terminal.
+source ./bin/env.sh 
+````
+
 ## Legend
 
 - [⌘] - Command
@@ -28,7 +35,7 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 ## Basics
 
 - [⌘⇧A] Find an action
-- [⌥⌘] Syncronise files
+- [⌥⌘] Synchronise files
 
 ## Editor
 
@@ -41,6 +48,11 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 - [⌘G] Find next occurrence.
 
 ## Drupal Settings
+
+### Basics
+
+- [⌥ Space] Definition.
+- 
 
 ### Code Style Settings
 
@@ -55,6 +67,11 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
   - Turn off all
   - Enable PHP Code Sniffer validation
   - Give the path to Drupal Coder like: `~/.composer/vendor/drupal/coder/coder_sniffer/Drupal`
+
+## Live Template
+
+- Settings/Preferences > Editor > Live Templates
+- See: [PhpStorm Live Templates](https://www.jetbrains.com/help/phpstorm/2017.1/creating-and-editing-template-variables.html)
 
 ## Navigate
 
