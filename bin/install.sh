@@ -22,4 +22,7 @@ if [ ! -d "$LOCAL/docroot" ]; then
   $DRUSH pm-uninstall toolbar color comment overlay dashboard
 fi
 
+# Linking.
+ln -s $LOCAL/src/module/custom $LOCAL/docroot/sites/all/modules/
+
 source $LOCAL/bin/env.sh

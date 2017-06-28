@@ -1,0 +1,34 @@
+<?php
+
+/**
+ * @file
+ * PhpStorm module file.
+ */
+
+/**
+ * Implements hook_menu().
+ */
+function phpstorm_menu() {
+  $items['phpstorm'] = array(
+    'title' => 'PhpStorm Page',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('phpstorm_example_form'),
+    'access arguments' => array('access content'),
+    'type' => MENU_SUGGESTED_ITEM,
+  );
+
+  return $items;
+}
+
+/**
+ *
+ */
+function phpstorm_example_form($form, &$form_state) {
+  $form = [
+    'content' => [
+      '#markup' => '<',
+    ],
+
+  ];
+  return $form;
+}

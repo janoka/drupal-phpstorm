@@ -1,0 +1,5 @@
+name = PhpStorm Test
+description = PhpStorm Test
+package = Custom
+core = 7.x
+dependencies[] = views

@@ -7,7 +7,7 @@
     <inspection_tool class="PhpAssignmentReplaceableWithPrefixExpressionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
     <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <option name="CODING_STANDARD" value="Custom" />
-      <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/.composer/vendor/drupal/coder/coder_sniffer/DrupalPractice" />
+      <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/.composer/vendor/drupal/coder/coder_sniffer/Drupal" />
     </inspection_tool>
     <inspection_tool class="PhpConstantReassignmentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="PhpConstructorStyleInspection" enabled="false" level="WARNING" enabled_by_default="false" />

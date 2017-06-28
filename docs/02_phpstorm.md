@@ -11,20 +11,23 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 - [⌥] - Option
 - [⌃] - Control
 - [⇪] - Caps Lock
+- [⏎] - Enter
 
 ## User Interface
 
 ### Panels
 
-- Project
-- Structure
-- Terminal
+- [⌘1] Project
+- [⌘7] Structure
+- [⌘2] Favorites
+- [⌥F12] Terminal
 - Version Control 
 - Database
+- Debug
 
 ## Basics
 
-- [⌘⇧A] Find a command
+- [⌘⇧A] Find an action
 - [⌥⌘] Syncronise files
 
 ## Editor
@@ -32,7 +35,10 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 - [⌘⇧N] Scratch Files.
 - Emmet.
 - [⌘D] Duplicate lines.
-
+- Move code one line up/down.
+- Delete line.
+- [⌥ click] Multiple cursor.
+- [⌘G] Find next occurrence.
 
 ## Drupal Settings
 
@@ -60,12 +66,13 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 - [⌘ click]/[⌘B] on the function name.
 - [⌘O] Goto by class name.
 
-### Project Pane
+### Project Tab
 
 - Autoscroll to Source: Automatically jump to the selected file.
 - Autoscroll from Source: Automatically open selected file
 - Scopes
-  - 
+- [⇧⌘F] Find in Path
+- [⇧⌘R] Replace in Path
 
 ### Bookmarks
 
@@ -77,6 +84,7 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 ### General
 
 - [⌥⌘L] Code formatting.
+- [⌥⏎] Show intention action.
 
 ### Version Control
 

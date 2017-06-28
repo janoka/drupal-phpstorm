@@ -3,7 +3,12 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/docroot/misc" />
+      <excludeFolder url="file://$MODULE_DIR$/docroot/profiles/minimal" />
+      <excludeFolder url="file://$MODULE_DIR$/docroot/profiles/testing" />
+      <excludeFolder url="file://$MODULE_DIR$/docroot/scripts" />
       <excludeFolder url="file://$MODULE_DIR$/docroot/sites/default" />
+      <excludeFolder url="file://$MODULE_DIR$/docroot/themes" />
       <excludeFolder url="file://$MODULE_DIR$/vendor" />
     </content>
     <orderEntry type="inheritedJdk" />
