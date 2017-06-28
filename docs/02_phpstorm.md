@@ -12,6 +12,9 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 - [⌃] - Control
 - [⇪] - Caps Lock
 - [⏎] - Enter
+- [↑] - Up
+- [↓] - Down
+
 
 ## User Interface
 
@@ -35,10 +38,11 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 - [⌘⇧N] Scratch Files.
 - Emmet.
 - [⌘D] Duplicate lines.
-- Move code one line up/down.
+- Move line up/down.
 - Delete line.
 - [⌥ click] Multiple cursor.
 - [⌘G] Find next occurrence.
+- [⌥↑], [⌥↓] Extend/shrink selection.
 
 ## Drupal Settings
 
@@ -85,6 +89,7 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
 
 - [⌥⌘L] Code formatting.
 - [⌥⏎] Show intention action.
+- [⌃Space] Code completion.
 
 ### Version Control
 
