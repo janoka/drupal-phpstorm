@@ -1,3 +1,4 @@
 docroot
 .DS_Store
 vendor
+.idea/workspace.xml
