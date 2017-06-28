@@ -52,7 +52,6 @@ source ./bin/env.sh
 ### Basics
 
 - [⌥ Space] Definition.
-- 
 
 ### Code Style Settings
 
