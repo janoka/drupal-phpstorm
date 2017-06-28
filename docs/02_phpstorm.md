@@ -86,10 +86,21 @@ Download from [here](https://www.jetbrains.com/phpstorm/download/#section=mac)
   - Console
 - [⌘K] Commit
 - [⌘D] Diff
-
-
+- Chunks
+- Changes in Editor:
+  - Revert
+  - Diff
+- Create patch.
+- Show file history.
+- File: Compare to branch.
 
 ## Plugins
+
+### Location 
+
+- Settings/Preferences > Plugins
+
+### Plugins
 
 - Sass
 - Markdown
